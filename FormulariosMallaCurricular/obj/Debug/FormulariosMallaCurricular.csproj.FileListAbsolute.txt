@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\bin\Debug\FormulariosMallaCurricular.exe.config
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\bin\Debug\FormulariosMallaCurricular.exe
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\bin\Debug\FormulariosMallaCurricular.pdb
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\bin\Debug\ClasesMallaCurricular.dll
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\bin\Debug\ClasesMallaCurricular.pdb
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.frmMenu.resources
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.csproj.CopyComplete
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.exe
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.pdb
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.frmFacultad.resources

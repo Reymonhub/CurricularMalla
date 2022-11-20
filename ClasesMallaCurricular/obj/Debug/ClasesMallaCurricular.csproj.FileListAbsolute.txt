@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\ClasesMallaCurricular\bin\Debug\ClasesMallaCurricular.dll
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\ClasesMallaCurricular\bin\Debug\ClasesMallaCurricular.pdb
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\ClasesMallaCurricular\obj\Debug\ClasesMallaCurricular.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\ClasesMallaCurricular\obj\Debug\ClasesMallaCurricular.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\ClasesMallaCurricular\obj\Debug\ClasesMallaCurricular.dll
+C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\ClasesMallaCurricular\obj\Debug\ClasesMallaCurricular.pdb
