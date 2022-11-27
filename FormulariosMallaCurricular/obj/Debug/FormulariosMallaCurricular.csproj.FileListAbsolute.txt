@@ -12,3 +12,18 @@ C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\
 C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.exe
 C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.pdb
 C:\Users\Usuario\Desktop\UAA\Sexto Semestre\Gestión de Proyectos Informáticos\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.frmFacultad.resources
+D:\Visual Studio 2022\ProyectoEnCSharp\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\bin\Debug\FormulariosMallaCurricular.exe.config
+D:\Visual Studio 2022\ProyectoEnCSharp\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\bin\Debug\FormulariosMallaCurricular.exe
+D:\Visual Studio 2022\ProyectoEnCSharp\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\bin\Debug\FormulariosMallaCurricular.pdb
+D:\Visual Studio 2022\ProyectoEnCSharp\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\bin\Debug\ClasesMallaCurricular.dll
+D:\Visual Studio 2022\ProyectoEnCSharp\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\bin\Debug\ClasesMallaCurricular.pdb
+D:\Visual Studio 2022\ProyectoEnCSharp\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\ProyectoEnCSharp\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 2022\ProyectoEnCSharp\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.frmFacultad.resources
+D:\Visual Studio 2022\ProyectoEnCSharp\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.frmMenu.resources
+D:\Visual Studio 2022\ProyectoEnCSharp\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.Properties.Resources.resources
+D:\Visual Studio 2022\ProyectoEnCSharp\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.csproj.GenerateResource.cache
+D:\Visual Studio 2022\ProyectoEnCSharp\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\ProyectoEnCSharp\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.csproj.CopyComplete
+D:\Visual Studio 2022\ProyectoEnCSharp\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.exe
+D:\Visual Studio 2022\ProyectoEnCSharp\ProyectoEnCSharp\ClasesMallaCurricular\FormulariosMallaCurricular\obj\Debug\FormulariosMallaCurricular.pdb

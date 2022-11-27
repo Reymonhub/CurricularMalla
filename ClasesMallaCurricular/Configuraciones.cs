@@ -10,6 +10,6 @@ namespace ClasesMallaCurricular
     public static class Configuraciones
     {
         public static string CADENA_CONEXION =
-            ConfigurationManager.ConnectionStrings["PandaRosa"].ConnectionString;
+            ConfigurationManager.ConnectionStrings["MallaCurricular"].ConnectionString;
     }
 }

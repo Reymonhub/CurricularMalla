@@ -31,7 +31,6 @@ namespace FormulariosMallaCurricular
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmFacultad));
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
-            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
             this.s = new System.Windows.Forms.GroupBox();
             this.txtFacultad = new System.Windows.Forms.TextBox();
             this.txtId = new System.Windows.Forms.TextBox();
@@ -41,14 +40,15 @@ namespace FormulariosMallaCurricular
             this.btnAceptar = new System.Windows.Forms.Button();
             this.btnModificar = new System.Windows.Forms.Button();
             this.btnEliminar = new System.Windows.Forms.Button();
-            this.btnNuevo = new System.Windows.Forms.Button();
             this.gbxBuscarFacultad = new System.Windows.Forms.GroupBox();
             this.btnBuscar = new System.Windows.Forms.Button();
             this.txtBuscar = new System.Windows.Forms.TextBox();
             this.lblFacuBuscar = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnCancelar = new System.Windows.Forms.Button();
             this.btnListar = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btnNuevo = new System.Windows.Forms.Button();
+            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
             this.toolStrip1.SuspendLayout();
             this.s.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvFacultad)).BeginInit();
@@ -65,17 +65,6 @@ namespace FormulariosMallaCurricular
             this.toolStrip1.Size = new System.Drawing.Size(655, 25);
             this.toolStrip1.TabIndex = 0;
             this.toolStrip1.Text = "toolStrip1";
-            // 
-            // toolStripButton1
-            // 
-            this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
-            this.toolStripButton1.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.toolStripButton1.Name = "toolStripButton1";
-            this.toolStripButton1.Size = new System.Drawing.Size(23, 22);
-            this.toolStripButton1.Text = "toolStripButton1";
-            this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
             // s
             // 
@@ -151,33 +140,33 @@ namespace FormulariosMallaCurricular
             // 
             // btnModificar
             // 
-            this.btnModificar.Location = new System.Drawing.Point(100, 351);
+            this.btnModificar.FlatAppearance.BorderSize = 0;
+            this.btnModificar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnModificar.Font = new System.Drawing.Font("Yu Gothic UI Semibold", 8.25F);
+            this.btnModificar.Image = ((System.Drawing.Image)(resources.GetObject("btnModificar.Image")));
+            this.btnModificar.Location = new System.Drawing.Point(123, 359);
             this.btnModificar.Name = "btnModificar";
-            this.btnModificar.Size = new System.Drawing.Size(75, 23);
+            this.btnModificar.Size = new System.Drawing.Size(106, 37);
             this.btnModificar.TabIndex = 4;
             this.btnModificar.Text = "Modificar";
+            this.btnModificar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnModificar.UseVisualStyleBackColor = true;
             this.btnModificar.Click += new System.EventHandler(this.btnModificar_Click);
             // 
             // btnEliminar
             // 
-            this.btnEliminar.Location = new System.Drawing.Point(181, 351);
+            this.btnEliminar.FlatAppearance.BorderSize = 0;
+            this.btnEliminar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEliminar.Font = new System.Drawing.Font("Yu Gothic UI Semibold", 8.25F);
+            this.btnEliminar.Image = ((System.Drawing.Image)(resources.GetObject("btnEliminar.Image")));
+            this.btnEliminar.Location = new System.Drawing.Point(235, 366);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(75, 23);
             this.btnEliminar.TabIndex = 5;
             this.btnEliminar.Text = "Eliminar";
+            this.btnEliminar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnEliminar.UseVisualStyleBackColor = true;
             this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
-            // 
-            // btnNuevo
-            // 
-            this.btnNuevo.Location = new System.Drawing.Point(19, 351);
-            this.btnNuevo.Name = "btnNuevo";
-            this.btnNuevo.Size = new System.Drawing.Size(75, 23);
-            this.btnNuevo.TabIndex = 3;
-            this.btnNuevo.Text = "Nuevo";
-            this.btnNuevo.UseVisualStyleBackColor = true;
-            this.btnNuevo.Click += new System.EventHandler(this.btnNuevo_Click);
             // 
             // gbxBuscarFacultad
             // 
@@ -218,19 +207,6 @@ namespace FormulariosMallaCurricular
             this.lblFacuBuscar.TabIndex = 0;
             this.lblFacuBuscar.Text = "Facultad:";
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(209)))), ((int)(((byte)(26)))), ((int)(((byte)(24)))));
-            this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.InitialImage")));
-            this.pictureBox1.Location = new System.Drawing.Point(540, 323);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(103, 80);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 8;
-            this.pictureBox1.TabStop = false;
-            // 
             // btnCancelar
             // 
             this.btnCancelar.Enabled = false;
@@ -245,13 +221,57 @@ namespace FormulariosMallaCurricular
             // btnListar
             // 
             this.btnListar.Enabled = false;
-            this.btnListar.Location = new System.Drawing.Point(262, 351);
+            this.btnListar.FlatAppearance.BorderSize = 0;
+            this.btnListar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnListar.Font = new System.Drawing.Font("Yu Gothic UI Semibold", 8.25F);
+            this.btnListar.Image = ((System.Drawing.Image)(resources.GetObject("btnListar.Image")));
+            this.btnListar.Location = new System.Drawing.Point(342, 362);
             this.btnListar.Name = "btnListar";
-            this.btnListar.Size = new System.Drawing.Size(75, 23);
+            this.btnListar.Size = new System.Drawing.Size(75, 30);
             this.btnListar.TabIndex = 10;
-            this.btnListar.Text = "Listar";
+            this.btnListar.Text = "  Listar";
+            this.btnListar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnListar.UseVisualStyleBackColor = true;
             this.btnListar.Click += new System.EventHandler(this.btnListar_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(209)))), ((int)(((byte)(26)))), ((int)(((byte)(24)))));
+            this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.InitialImage")));
+            this.pictureBox1.Location = new System.Drawing.Point(552, 338);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(103, 80);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 8;
+            this.pictureBox1.TabStop = false;
+            // 
+            // btnNuevo
+            // 
+            this.btnNuevo.FlatAppearance.BorderSize = 0;
+            this.btnNuevo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnNuevo.Font = new System.Drawing.Font("Yu Gothic UI Semibold", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnNuevo.Image = ((System.Drawing.Image)(resources.GetObject("btnNuevo.Image")));
+            this.btnNuevo.Location = new System.Drawing.Point(12, 351);
+            this.btnNuevo.Name = "btnNuevo";
+            this.btnNuevo.Size = new System.Drawing.Size(105, 52);
+            this.btnNuevo.TabIndex = 3;
+            this.btnNuevo.Text = "NUEVO";
+            this.btnNuevo.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnNuevo.UseVisualStyleBackColor = true;
+            this.btnNuevo.Click += new System.EventHandler(this.btnNuevo_Click);
+            // 
+            // toolStripButton1
+            // 
+            this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
+            this.toolStripButton1.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton1.Name = "toolStripButton1";
+            this.toolStripButton1.Size = new System.Drawing.Size(23, 22);
+            this.toolStripButton1.Text = "toolStripButton1";
+            this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
             // frmFacultad
             // 
